@@ -14,5 +14,6 @@ The entire program is divided into 4 python functions:
     <ul>
   </li>
 </ul>
-    
+<br>
+##Output in console:
 ![Image of Console](https://github.com/p-tomas/python-sudoku-solver/blob/main/console_output.png)
